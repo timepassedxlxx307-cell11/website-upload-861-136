@@ -1,0 +1,21 @@
+Static Movie Site Build Report
+Movies parsed: 2000
+Detail pages generated: 2000
+HTML pages generated: 2018
+HTML pages with Baidu script: 2018
+Video m3u8 URLs extracted from original JS: 150
+Logo: 日韩视频
+Category counts:
+  - 日韩精选: 167
+  - 国产剧场: 167
+  - 欧美大片: 167
+  - 悬疑犯罪: 167
+  - 爱情喜剧: 167
+  - 动作冒险: 167
+  - 科幻奇幻: 167
+  - 动画动漫: 165
+  - 纪录综艺: 165
+  - 古装权谋: 167
+  - 恐怖惊悚: 167
+  - 都市家庭: 167
+No JPG files were generated or packaged.
